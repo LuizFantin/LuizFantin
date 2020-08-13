@@ -1,8 +1,6 @@
 ### Hi, I'm Luiz 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on @adaptiOficial and @igfsmart
+- 🔭 I’m currently working on [@adaptiOficial](https://github.com/adaptiOficial) and [@igfsmart](https://github.com/igfsmart)
 - 🌱 I’m currently learning Laravel, Node.js and React
 - ⚡ Fun fact: I drink a lot of coffee and I can still sleep well
 
