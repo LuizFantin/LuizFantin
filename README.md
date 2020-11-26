@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | C | Octave
+- 💻 &nbsp; Python | Java | C |
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP(Laravel)
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Markdown
