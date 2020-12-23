@@ -22,8 +22,8 @@
   <img src="https://profile-counter.glitch.me/LuizFantin/count.svg" />
 </p>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuizFantin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFantin&layout=compact&hide=html,jupyter%20notebook&theme=light" alt="LuizFantin" />
+  
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFantin&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="LuizFantin" />
 
 <h3> 🤝🏻 Connect with Me </h3>
 
