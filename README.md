@@ -5,12 +5,12 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineer at Federal University of Espírito Santo.
 - 💼 &nbsp; Working as a Web Developer at [@igfsmart](https://github.com/igfsmart) and as a Web Developer at [Compasso UOL](https://compassouol.com).
-- 🌱 &nbsp; Learning more about Laravel, Design Patterns and Node.js.
-- ⚡ &nbsp; Fun fact: I drink a lot of coffee and I can still sleep well
+- 🌱 &nbsp; Learning more about Laravel, .NET(C#) and Node.js.
+- ⚡ &nbsp; Fun fact: I love play chess.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C |
+- 💻 &nbsp; Python | Java | C | C#
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP(Laravel)
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Markdown
