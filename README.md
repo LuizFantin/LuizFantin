@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; Python | Java | C | C#
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP(Laravel)
-- 🛢 &nbsp; MySQL
+- 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Git | Markdown
 
 <br/>
