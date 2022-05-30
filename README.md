@@ -4,15 +4,15 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineer at Federal University of Espírito Santo.
-- 💼 &nbsp; Working as a Web Developer at [@igfsmart](https://github.com/igfsmart) and as a Web Developer at [Compasso UOL](https://compassouol.com).
+- 💼 &nbsp; Working as a Web Developer at [@igfsmart](https://github.com/igfsmart) and as a Web Developer at [Compass UOL](https://compassouol.com).
 - 🌱 &nbsp; Learning more about Laravel, React Native and Node.js.
 - ⚡ &nbsp; Fun fact: I love play chess.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C | C#
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP(Laravel) | Adonis.js
-- 🛢 &nbsp; MySQL | PostgreSQL
+- 💻 &nbsp; Nodejs | Laravel
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🛢 &nbsp; MySQL | PostgreSQL, DynamoDB, Redis
 - 🔧 &nbsp; Git | Markdown
 
 <br/>
