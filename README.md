@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Nodejs | Laravel
+- 💻 &nbsp; Nodejs | Nest.js | Laravel
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | PostgreSQL, DynamoDB, Redis
 - 🔧 &nbsp; Git | Markdown
